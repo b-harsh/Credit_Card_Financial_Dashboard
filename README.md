@@ -12,19 +12,6 @@ Power BI: For creating interactive dashboards and visualizations.
 SQL: To query and manage customer and transaction data from the database.
 DAX: Enables dynamic calculations within Power BI.
 
-# 📂 Folder Structure
-CreditCardFinancialDashboard/<br>
-├── data/<br>
-│   ├── cc_add.xlsx<br>
-│   ├── credit_card.xlsx<br>
-│   ├── cust_add.xlsx<br>
-│   ├── customer.xlsx<br>
-│   └── SQL Query - Financial Dashboard Data.sql<br>
-├── reports/<br>
-│   ├── CreditCard Financial Dashboard-Customer.pdf<br>
-│   ├── CreditCard Financial Dashboard-Financial.pdf<br>
-│   └── CreditCardReport.pbix<br>
-└── README.md<br>
 
 # ⚙️ Installation & Setup
 Data Preparation: Load the transaction and customer datasets into your SQL database.
@@ -36,9 +23,3 @@ Dashboard Visualization: Configure visuals, slicers, and filters to showcase met
 Transaction Analysis: Gain insights into transaction types, volumes, and customer demographics.
 Performance Tracking: Monitor trends in spend, delinquency rates, and KPIs to aid financial decision-making.
 Stakeholder Reporting: Easily share actionable insights with relevant stakeholders through Power BI’s report-sharing features.
-
-# 📫 Contact
-For inquiries, suggestions, or collaboration opportunities, please reach out via:
-
-Email: kumartushar78867@gmail.com
-LinkedIn: https://in.linkedin.com/in/tushar-kumar-670986226
